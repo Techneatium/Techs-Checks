@@ -16,5 +16,11 @@
   http://heatblur.se/F-14Manual/
 
 ---
+### Changelog - 2022.02.11
+- Added Latest version of `F14_Cheatsheet`
+  - new B/W option
+  - new changebars in margin to indicate required steps during startup
+  - new warning-boxes
+-
 ### Changelog - 2022.01.16
 - Added `F14_CheatSheet_20220116`
