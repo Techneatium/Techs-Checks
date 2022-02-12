@@ -6,6 +6,11 @@
 - **Work in progress**
 - **Constructive feedback welcome**
 
+### Source Code
+- **F-14A/B:** https://github.com/Techneatium/F14_CheatSheet
+
+Note that Source repositories will contain the latest pdfs
+
 ### Thanks
 - Huge thanks goes out to Chuck and his guides which serve as the bedrock of this work. His guides can be found at:
 
